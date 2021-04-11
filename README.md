@@ -1,3 +1,11 @@
+# Code 201 Reading Notes :
+|# Daily assignments|
+--------------------
+|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|here is the assignment 1|here is the assignment 2|here is the assignment 2|here is the assignment 4|here is the assignment 5|here is the assignment 6|here is the assignment 7|here is the assignment 8|here is the assignment 9|here is the assignment 10|here is the assignment 11|here is the assignment 12|here is the assignment 13|here is the assignment 14|here is the assignment 15|
+-----------------------------------
+# Code 102 Reading Notes :
 How can I choose good texteditor:
 1- It depends on personal choices
 2-Some texteditor come with features not in other but all pretty similar
