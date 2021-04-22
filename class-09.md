@@ -1,4 +1,4 @@
-# Error Handling refers to how Express catches and processes errors that occur both synchronously and asynchronously. Express comes with a default error handler so you don’t need to write your own to get started.
+Error Handling refers to how Express catches and processes errors that occur both synchronously and asynchronously. Express comes with a default error handler so you don’t need to write your own to get started.
 
 Catching Errors
 It’s important to ensure that Express catches all errors that occur while running route handlers and middleware.
@@ -37,7 +37,7 @@ If you pass anything to the next() function (except the string ‘route’), Exp
 
  
 
-Debugging
+Debugging :
 
  
 
